@@ -40,9 +40,7 @@ public class Principal {
       }
 
     } while (opcao != 2);
-    {
-      System.out.println();
-    }
+    System.out.println();
 
     do {
       System.out.println("Cadastrar pessoa eleitora?");
